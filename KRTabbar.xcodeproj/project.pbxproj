@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		DA13C3BB2ACC834400264F31 /* TabItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA13C3BA2ACC834400264F31 /* TabItem.swift */; };
 		DAFA44872ACC74E900211F89 /* KRTabbarApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAFA44862ACC74E900211F89 /* KRTabbarApp.swift */; };
 		DAFA44892ACC74E900211F89 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAFA44882ACC74E900211F89 /* ContentView.swift */; };
 		DAFA448B2ACC74E900211F89 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DAFA448A2ACC74E900211F89 /* Assets.xcassets */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		DA13C3BA2ACC834400264F31 /* TabItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabItem.swift; sourceTree = "<group>"; };
 		DAFA44832ACC74E900211F89 /* KRTabbar.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = KRTabbar.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DAFA44862ACC74E900211F89 /* KRTabbarApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KRTabbarApp.swift; sourceTree = "<group>"; };
 		DAFA44882ACC74E900211F89 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -85,6 +87,7 @@
 			isa = PBXGroup;
 			children = (
 				DAFA449A2ACC761800211F89 /* Home.swift */,
+				DA13C3BA2ACC834400264F31 /* TabItem.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -162,6 +165,7 @@
 				DAFA44972ACC752A00211F89 /* Tab.swift in Sources */,
 				DAFA44892ACC74E900211F89 /* ContentView.swift in Sources */,
 				DAFA449B2ACC761800211F89 /* Home.swift in Sources */,
+				DA13C3BB2ACC834400264F31 /* TabItem.swift in Sources */,
 				DAFA44872ACC74E900211F89 /* KRTabbarApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
