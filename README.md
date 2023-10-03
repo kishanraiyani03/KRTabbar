@@ -1,2 +1,0 @@
-# KRTabbar
-SwiftUI Tabbar
